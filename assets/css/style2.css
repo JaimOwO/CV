@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+    color: white;
+}
+body img{
+    width: 60%;
+}
+
+body h1{
+    background-color: black;
+    margin: 0%;
+    text-align: center
+    
+    
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    padding-left: 25%;
+    
+}

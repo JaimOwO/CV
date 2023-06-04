@@ -1,0 +1,33 @@
+body{
+    font-size: 20px;
+}
+
+.img-perfil1{
+    width: 70%;
+}
+
+.barra-espaciadora{
+    height: 20px;
+    width: 100%;
+    background-color: bisque;
+}
+
+section{
+    background-color: bisque;
+}
+
+.mi1{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 25px;
+    
+}
+
+
+footer{
+    background-color: dimgray;
+}
+
+
+
